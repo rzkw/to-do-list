@@ -1,2 +1,1 @@
-# to-do-list
-JavaScript to-do list 
+My first mini JavaScript project!
